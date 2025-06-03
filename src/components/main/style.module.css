@@ -1,0 +1,16 @@
+*{
+  margin-top: 0;
+  border: 0;
+}
+.container {
+background-image: url('./beck.png');
+    background-size: cover;                    /* растянуть фон на весь блок*/
+  background-position: center;               /*разместить по центру */
+  background-repeat: no-repeat;              /* отключить повторение */
+  height: 100vh;                             /* высота блока на весь экран */
+  color: black; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    }
